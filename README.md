@@ -1,0 +1,1 @@
+A typing program where all the texts are in a deck, each text is a two-linked list of sentences, and each sentence is a single-linked list of words. For each structure, a menu is implemented where you can select a function for processing this structure
